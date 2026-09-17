@@ -1,16 +1,30 @@
-## Hi there 👋
+# Samuel Oyeniran
 
-<!--
-**c0desec/c0desec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Offensive Security Specialist · Penetration Tester · Red Teamer · AI Red Teamer**
 
-Here are some ideas to get you started:
+I focus on practical, evidence-driven security testing and build lightweight tooling that helps make reconnaissance and assessment workflows more repeatable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+
+- Web and API penetration testing
+- Red-team operations and adversary simulation
+- AI red teaming and security testing
+- Security automation and reconnaissance tooling
+
+## Projects
+
+- [PingSweep](https://github.com/c0desec/PingSweep) — a small Bash utility for identifying responsive hosts on an IPv4 /24 network.
+- [auto-SubdomainEnum](https://github.com/c0desec/auto-SubdomainEnum) — Bash-based subdomain discovery and validation using `subfinder` and `assetfinder`.
+
+## How I work
+
+I value clear scope, reproducible findings, responsible disclosure, and tools that stay understandable. Everything shared here is intended for authorized security testing and education.
+
+## Connect
+
+- Website: [c0desec.com](https://c0desec.com)
+- LinkedIn: [Samuel Oyeniran](https://www.linkedin.com/in/s-oyeniran/)
+- X: [@c0desec](https://x.com/c0desec)
+- Cybrary: [c0desec](https://app.cybrary.it/profile/c0desec)
+
+Based in Lagos, Nigeria · c0desec Security Limited
